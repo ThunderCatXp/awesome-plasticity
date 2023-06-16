@@ -1,15 +1,16 @@
-# plasticity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Plasticity logo](https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=256&q=75)
+### **Awesome Plasticity** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 >  A list of awesome Plasticity tutorials and resources for 3D Artists, Hobbyists. 
 
 
 ## Contents
 
-- [Section](#section)
+- [Learning Materials](#learning-materials)
 - [Another Section](#another-section)
 
 
-## Section
+## Learning Materials
 
 About this section. Optional. Keep this short and focus on the list.
 
