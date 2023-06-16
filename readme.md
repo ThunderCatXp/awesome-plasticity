@@ -4,26 +4,14 @@
 >  A list of awesome Plasticity tutorials and resources for 3D Artists, Hobbyists. 
 
 
-## Contents
+## Contents 📚
 
 - [Learning Materials](#learning-materials)
-- [Another Section](#another-section)
 
 
 ## Learning Materials
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Pixel Fondue](https://www.youtube.com/watch?v=c6om0JEZeik&list=PLv8HciXoFYX-VGc-zqYQNLaWl8PuwIelI) : Quick but informative tutorials for Plasticity
 
 
 ## Contribute
