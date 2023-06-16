@@ -19,6 +19,7 @@
 ## Learning Materials
 
 - [Pixel Fondue](https://www.youtube.com/watch?v=c6om0JEZeik&list=PLv8HciXoFYX-VGc-zqYQNLaWl8PuwIelI) : Quick but informative tutorials for Plasticity.
+- [Kuechmeister Swagger](https://www.youtube.com/@Kuechmeister) : Channel with awesome Plasticity tutorials.
 
 
 ## Contribute
