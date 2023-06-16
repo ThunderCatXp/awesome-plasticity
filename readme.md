@@ -1,8 +1,15 @@
-![Plasticity logo](https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=256&q=75)
-### **Awesome Plasticity** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
->  A list of awesome Plasticity tutorials and resources for 3D Artists, Hobbyists. 
+[![Plasticity logo](https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=256&q=75)](https://www.plasticity.xyz)
+### **Awesome Plasticity** 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ThunderCatXp/awesome-plasticity/pulls)
 
+<p>
+  A curated list of awesome Plasticity tutorials and resources for 3D Artists, Hobbyists.
+</p>
+
+</div>
 
 ## Contents 📚
 
@@ -16,4 +23,4 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! If you want to contribute to this list, send a pull request, open an issue or contact with me @ThunderCatXp and read the [contribution guidelines](CONTRIBUTING.md) first.
