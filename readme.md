@@ -11,7 +11,7 @@
 
 ## Learning Materials
 
-- [Pixel Fondue](https://www.youtube.com/watch?v=c6om0JEZeik&list=PLv8HciXoFYX-VGc-zqYQNLaWl8PuwIelI) : Quick but informative tutorials for Plasticity
+- [Pixel Fondue](https://www.youtube.com/watch?v=c6om0JEZeik&list=PLv8HciXoFYX-VGc-zqYQNLaWl8PuwIelI) : Quick but informative tutorials for Plasticity.
 
 
 ## Contribute
