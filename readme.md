@@ -18,10 +18,14 @@
 
 ## Learning Materials
 
-- [Pixel Fondue](https://www.youtube.com/watch?v=c6om0JEZeik&list=PLv8HciXoFYX-VGc-zqYQNLaWl8PuwIelI) : Quick but informative tutorials for Plasticity.
-- [Kuechmeister Swagger](https://www.youtube.com/@Kuechmeister) : Channel with awesome Plasticity tutorials.
-- [Plasticity Quick Start](https://www.youtube.com/watch?v=HQSlC2PXYzE&list=PLBDfGh8A8kXXZx0FUCg05qIbts5zbeRT9) : Awesome Plasticity guides for beginners
+- [Pixel Fondue](https://www.youtube.com/@Pixelfondue) : Quick but informative tutorials for Plasticity. `☷`
+- [Kuechmeister Swagger](https://www.youtube.com/@Kuechmeister) : Channel with awesome Plasticity tutorials. `☷`
+- [Plasticity Quick Start](https://www.youtube.com/watch?v=HQSlC2PXYzE&list=PLBDfGh8A8kXXZx0FUCg05qIbts5zbeRT9) : Awesome Plasticity guides for beginners.  `☰`
 
+
+## Symbols
+
+> `[$]` paid ones, `▷` video, `☰` playlist, `☷` channel.
 
 ## Contribute
 
