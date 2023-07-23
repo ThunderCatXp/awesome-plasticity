@@ -22,6 +22,7 @@
 - [Kuechmeister Swagger](https://www.youtube.com/@Kuechmeister) : Channel with awesome Plasticity tutorials. `☷`
 - [Plasticity Quick Start](https://www.youtube.com/watch?v=HQSlC2PXYzE&list=PLBDfGh8A8kXXZx0FUCg05qIbts5zbeRT9) : Awesome Plasticity guides for beginners.  `☰`
 - [Plasticity Beginner Crash Course](https://www.youtube.com/watch?v=aPtMacvH_10&list=PL6Fiih6ItYsUphPYb1ZTNaaXbKNsT7l39&index=1) : Beginner-friendly Plasticity course `☰`
+- [Nikita Kasputin](https://www.youtube.com/@nikita.kapustin/) : Awesome Plasticity tutorials `☷`
 
 
 ## Symbols
