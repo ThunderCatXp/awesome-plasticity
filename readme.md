@@ -14,6 +14,7 @@
 ## Contents 📚
 
 - [Learning Materials](#learning-materials)
+- [Explore Plasticity](#explore-plasticity)
 
 
 ## Learning Materials
@@ -23,6 +24,18 @@
 - [Plasticity Quick Start](https://www.youtube.com/watch?v=HQSlC2PXYzE&list=PLBDfGh8A8kXXZx0FUCg05qIbts5zbeRT9) : Awesome Plasticity guides for beginners.  `☰`
 - [Plasticity Beginner Crash Course](https://www.youtube.com/watch?v=aPtMacvH_10&list=PL6Fiih6ItYsUphPYb1ZTNaaXbKNsT7l39&index=1) : Beginner-friendly Plasticity course `☰`
 - [Nikita Kasputin](https://www.youtube.com/@nikita.kapustin/) : Awesome Plasticity tutorials `☷`
+
+
+## Explore Plasticity
+
+- [Discord Server](https://discord.com/invite/ytGV7EwY) : Discord server for free trial users.
+- [Plasticity feedback](https://plasticity.canny.io/) : Plasticity feedback and reqests.
+- [Official Site](https://www.plasticity.xyz/) : Official Plasticity site.
+ 
+ 
+
+
+
 
 
 ## Symbols
