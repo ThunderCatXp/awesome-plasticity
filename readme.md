@@ -17,7 +17,9 @@
 - [Explore Plasticity](#explore-plasticity)
 
 
-## Learning Materials
+
+
+### Learning Materials
 
 - [Pixel Fondue](https://www.youtube.com/@Pixelfondue) : Quick but informative tutorials for Plasticity. `☷`
 - [Kuechmeister Swagger](https://www.youtube.com/@Kuechmeister) : Channel with awesome Plasticity tutorials. `☷`
@@ -26,7 +28,7 @@
 - [Nikita Kasputin](https://www.youtube.com/@nikita.kapustin/) : Awesome Plasticity tutorials. `☷`
 
 
-## Explore Plasticity
+### Explore Plasticity
 
 - [Discord Server](https://discord.com/invite/ytGV7EwY) : Discord server for free trial users.
 - [Plasticity feedback](https://plasticity.canny.io/) : Plasticity feedback and reqests.
