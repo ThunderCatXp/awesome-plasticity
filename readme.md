@@ -44,6 +44,6 @@
 
 > `[$]` paid ones, `▷` video, `☰` playlist, `☷` channel.
 
-## Contribute
+## Contribute 🔥
 
 Contributions welcome! If you want to contribute to this list, send a pull request, open an issue or contact with me @ThunderCatXp and read the [contribution guidelines](CONTRIBUTING.md) first.
