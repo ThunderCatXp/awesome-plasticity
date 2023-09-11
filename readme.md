@@ -33,6 +33,8 @@
 - [Discord Server](https://discord.com/invite/ytGV7EwY) : Discord server for free trial users.
 - [Plasticity feedback](https://plasticity.canny.io/) : Plasticity feedback and reqests.
 - [Official Site](https://www.plasticity.xyz/) : Official Plasticity site.
+- [Plasticity Manual](https://doc.plasticity.xyz/): Unofficial Plasticity documentation.
+
  
  
 
